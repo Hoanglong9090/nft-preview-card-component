@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github]([https://your-solution-url.com](https://github.com/Hoanglong9090/nft-preview-card-component))
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Github-Page]([https://your-live-site-url.com](https://hoanglong9090.github.io/nft-preview-card-component/))
 
 ## My process
 
@@ -51,5 +51,5 @@ Use this section to recap over some of your major learnings while working throug
 
 ## Author
 
-- Gmail - [HoangLong](letrunghoanglong2020@gmail.com)
+- Zalo - [0345546732]
 - Frontend Mentor - [@[yourusername](https://www.frontendmentor.io/profile/Hoanglong9090)](https://www.frontendmentor.io/profile/yourusername)
